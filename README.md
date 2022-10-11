@@ -1,8 +1,8 @@
 # Case_Study
 Veriseti Açıklaması
 1) Flight
-Uçuşa ait bilgiler
-flight_id: Uçuş ID
+- Uçuşa ait bilgiler
+- flight_id: Uçuş ID
 model_id: Uçak model ID,
 mission_id: Misyon ID,
 flight_date: Uçuş zamanı,
